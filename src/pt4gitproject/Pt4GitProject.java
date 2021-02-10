@@ -15,6 +15,9 @@ public class Pt4GitProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        
+        System.out.println("MODIFICACIO CODI 1");
         // TODO code application logic here
     }
     
